@@ -9,7 +9,6 @@
 <Content type="html" view="home,profile">
   <![CDATA[
 
-    <title>DXC Saba Online FAQ </title>
     <link rel="stylesheet" href="../resource/css/tab.css">
     <link rel="shortcut icon" href="../resource/images/DXC.ico" />
 
@@ -55,8 +54,6 @@
      //Toggle function End
     </script>
 
-</head>
-<body>  
 <!--
     <div class="tab" style="bottom:10px" >
         <button class="tablinks"  id="defaultOpen"></button>

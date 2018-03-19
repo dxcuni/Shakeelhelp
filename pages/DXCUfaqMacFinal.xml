@@ -6,7 +6,7 @@
     <Require feature="views"/>
     <Require feature="dynamic-height"/>
   </ModulePrefs>
-<Content type="html" view="home,profile">
+<Content type="html" view="home">
   <![CDATA[
 
     <link rel="stylesheet" href="../resource/css/tab.css">

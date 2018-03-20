@@ -2,7 +2,7 @@
  * Bootstrap v3.3.7 (http://getbootstrap.com)
  * Copyright 2011-2016 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
- *//*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}
+ *//*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:GT_Walsheim_Pro_Regular;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}
 div {width:700px; margin:0 auto}
 article,aside,details,figcaption,figure,footer,header,hgroup,main,menu,nav,section,summary{display:block}
 audio,canvas,progress,video{display:inline-block;vertical-align:baseline}
@@ -24,7 +24,7 @@ svg:not(:root){overflow:hidden}
 figure{margin:1em 40px}
 hr{box-sizing:content-box;height:0}
 pre{overflow:auto}
-code,kbd,pre,samp{font-family:monospace,monospace;font-size:1em}
+code,kbd,pre,samp{font-family:GT_Walsheim_Pro_Regular,GT_Walsheim_Pro_Regular;font-size:1em}
 button,input,optgroup,select,textarea{color:inherit;font:inherit;margin:0}
 button{overflow:visible}
 button,select{text-transform:none}
@@ -60,8 +60,8 @@ h2,h3{page-break-after:avoid}
 .table td,.table th{background-color:#fff !important}
 .table-bordered th,.table-bordered td{border:1px solid #ddd !important}
 }
-@font-face{font-family:'Glyphicons Halflings';src:url('clientlib-site/bootstrap/fonts/glyphicons-halflings-regular.eot');src:url('clientlib-site/bootstrap/fonts/glyphicons-halflings-regular.eot?#iefix') format('embedded-opentype'),url('clientlib-site/bootstrap/fonts/glyphicons-halflings-regular.woff2') format('woff2'),url('clientlib-site/bootstrap/fonts/glyphicons-halflings-regular.woff') format('woff'),url('clientlib-site/bootstrap/fonts/glyphicons-halflings-regular.ttf') format('truetype'),url('clientlib-site/bootstrap/fonts/glyphicons-halflings-regular.svg#glyphicons_halflingsregular') format('svg')}
-.glyphicon{position:relative;top:1px;display:inline-block;font-family:'Glyphicons Halflings';font-style:normal;font-weight:normal;line-height:1;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}
+@font-face{font-family:'GT_Walsheim_Pro_Regular';src:url('clientlib-site/bootstrap/fonts/glyphicons-halflings-regular.eot');src:url('clientlib-site/bootstrap/fonts/glyphicons-halflings-regular.eot?#iefix') format('embedded-opentype'),url('clientlib-site/bootstrap/fonts/glyphicons-halflings-regular.woff2') format('woff2'),url('clientlib-site/bootstrap/fonts/glyphicons-halflings-regular.woff') format('woff'),url('clientlib-site/bootstrap/fonts/glyphicons-halflings-regular.ttf') format('truetype'),url('clientlib-site/bootstrap/fonts/glyphicons-halflings-regular.svg#glyphicons_halflingsregular') format('svg')}
+.glyphicon{position:relative;top:1px;display:inline-block;font-family:'GT_Walsheim_Pro_Regular';font-style:normal;font-weight:normal;line-height:1;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}
 .glyphicon-asterisk:before{content:"\002a"}
 .glyphicon-plus:before{content:"\002b"}
 .glyphicon-euro:before,.glyphicon-eur:before{content:"\20ac"}
@@ -327,7 +327,7 @@ h2,h3{page-break-after:avoid}
 *{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}
 *:before,*:after{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}
 html{font-size:10px;-webkit-tap-highlight-color:rgba(0,0,0,0)}
-body{height:1100px;font-family: 'GT_Walsheim_Pro_Regular',Helvetica,Arial,sans-serif;font-size:16px;line-height:1.42857143;color:#000;background-color:#fff}
+body{height:1100px;font-family: 'GT_Walsheim_Pro_Regular',GT_Walsheim_Pro_Regular,GT_Walsheim_Pro_Regular,GT_Walsheim_Pro_Regular;font-size:16px;line-height:1.42857143;color:#000;background-color:#fff}
 input,button,select,textarea{font-family:inherit;font-size:inherit;line-height:inherit}
 a{color:#000;text-decoration:none}
 a:hover,a:focus{color:#262626;text-decoration:underline}

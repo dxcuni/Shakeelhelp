@@ -23,6 +23,16 @@
   &lt;li&gt;Notify your manager when your entries are complete so they can begin their review&lt;/li&gt;
 &lt;/ul&gt;">
   </FAQ>
+  <FAQ Question="Where do I find all the training assets for the Skill Profile updating?"
+       Answer="&lt;ul&gt;
+  &lt;li&gt;All training assets are located on the <a href="https://my.dxc.com/our-company/global-functions/integrated-workforce-management/analytics-and-intelligence/dxc-skills-management.html" target="_blank" title="myDXC Skills Management">myDXC Skills Management</a>.&lt;/li&gt;
+  &lt;li&gt;Be sure to read the ReadMe First document for descriptions of each asset.&lt;/li&gt;
+&lt;/ul&gt;">
+  </FAQ>
+  <FAQ Question="I need to delete some skills; how do I do that?"
+       Answer="Please refer to the &lt;a href=&quot;https://my.dxc.com/content/dam/private/our_company/global_functions/integrated_workforce_management/skillsmanagement/SkillDeletionGuide.pdf
+&quot;&gt;&lt;b&gt;Skill Deletion Guide&lt;/b&gt;&lt;/a&gt;">
+  </FAQ>
   <FAQ Question="How do I register for a course?"
        Answer="1.	Click on the waffle and select the ME tile. The My Plan page opens
 2.	On the My Plan page, click the Actions button and select Add Learning
@@ -36,12 +46,10 @@
   </FAQ>
   <FAQ Question="How do I cancel my registration for a course?"
       Answer="If you have enrolled for any learning you either no longer wish to complete (e.g. WBT) or cannot attend (ILT/VILT) the learning still appears on your My Plan page in DXCU.  To unregister/drop learning from your training plan, follow these steps: 
-
 1.	Click on the waffle and select the ME tile. The My Plan page opens with a list of learning you are enrolled in.
 2.	Find the learning you wish to drop and from the Actions column click the drop-down and select Drop. A cancel order window opens. 
 3.	Click Yes and wait for the cancel order window to close automatically.
 4.	The learning should no longer appear in your plan. 
-
 NOTE: Any learning that has been assigned to you, either by a system rule or a manger/person, cannot be removed. You would have to contact the manager/person who assigned it and have them un-assign it.  You may also submit an HRConnect support case for assistance.
 ">
   </FAQ>
@@ -79,7 +87,6 @@ Once it is approved you can refer the following steps to verify the course compl
 1.     Click on the waffle and select the ME tile. The My Plan page opens
 2.     Click Completed Learning. The course name will be now be added to your Completed Learning with a description &quot;The course has been completed externally&quot;, indicating that it is an ad hoc entry.
 3.     You may have to click the Filters button, use the filters available to you, and then click Apply Filters to locate the training. 
-
 ">
   </FAQ>
 </FAQList>

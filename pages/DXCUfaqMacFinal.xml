@@ -18,6 +18,13 @@
     <script src='../resource/js/jquery.min.js' type='text/javascript'></script>
     
   <style type="text/css">
+@font-face {
+font-family: 'GT_Walsheim_Pro_Regular';
+src: url('../resource/cssGT-Walsheim-Pro-Regular.eot'); /* IE9 Compat Modes */
+src: url('../resource/cssGT-Walsheim-Pro-Regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+url('../resource/cssGT-Walsheim-Pro-Regular.woff') format('woff'), /* Modern Browsers */
+url('../resource/cssGT-Walsheim-Pro-Regular.ttf') format('truetype'), /* Safari, Android, iOS */
+url('../resource/cssGT-Walsheim-Pro-Regular.svg#svgFontName') format('svg'); /* Legacy iOS */}
         body {font-family: GT_Walsheim_Pro_Regular;}
 
     </style>
@@ -64,7 +71,7 @@
 -->	
     <script type="text/javascript" src="../resource/js/banner.js"></script>
     <div id="divFAQ" style="padding-top:0px">
-        <p><h2 style="font-family:'GT_Walsheim_Pro_Regular'">Here are some of the most frequently asked<br />questions that employees have about DXC<br />University.123</h2></p>
+        <p><h2 style="font-family:'GT_Walsheim_Pro_Regular'">Here are some of the most frequently asked<br />questions that employees have about DXC<br />University.1111</h2></p>
     </div>  
     
 <!--Penny DXC Arrow START 2-14-18 Valentine -->

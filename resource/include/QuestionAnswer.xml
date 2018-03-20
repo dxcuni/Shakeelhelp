@@ -35,7 +35,7 @@
   </FAQ>
   <FAQ Question="How do I register for a course?"
        Answer="&lt;ol&gt;
-  &lt;li&gt;Click on the &lt;img src=&quot; https://raw.githubusercontent.com/lpenny22/help/master/resource/images/waffle.png&quot; target=&quot;_blank&quot; title=&quot;THE WAFFLE Image&quot; /&gt; and select the ME tile. The My Plan page opens&lt;/li&gt;
+  &lt;li&gt;Click on the &lt;img src=&quot; https://raw.githubusercontent.com/dxcuni/help/itg/resource/images/waffle.png&quot; target=&quot;_blank&quot; title=&quot;THE WAFFLE Image&quot; /&gt; and select the ME tile. The My Plan page opens&lt;/li&gt;
   &lt;li&gt;On the My Plan page, click the Actions button and select Add Learning&lt;/li&gt;
   &lt;li&gt;An Assign Learning window will open. Choose Register and then click Next&lt;/li&gt;
   &lt;li&gt;Using the search and filter functionality locate the course you wish to enroll in. If there are more than one class click the Select class link . A list of class IDs will open. For ILT/VILTs you can mouse over a class to see the dates/times of the class.&lt;/li&gt;
@@ -49,7 +49,7 @@
       Answer="If you have enrolled for any learning you either no longer wish to complete (e.g. WBT) or cannot attend (ILT/VILT) the learning still appears on your My Plan page in DXCU.  To unregister/drop learning from your training plan, follow these steps: 
 
 &lt;ol&gt;
-  &lt;li&gt;Click on the &lt;img src=&quot; https://raw.githubusercontent.com/lpenny22/help/master/resource/images/waffle.png&quot; target=&quot;_blank&quot; title=&quot;THE WAFFLE Image&quot; /&gt; and select the ME tile. The My Plan page opens with a list of learning you are enrolled in.&lt;/li&gt;
+  &lt;li&gt;Click on the &lt;img src=&quot; https://raw.githubusercontent.com/dxcuni/help/itg/resource/images/waffle.png&quot; target=&quot;_blank&quot; title=&quot;THE WAFFLE Image&quot; /&gt; and select the ME tile. The My Plan page opens with a list of learning you are enrolled in.&lt;/li&gt;
   &lt;li&gt;Find the learning you wish to drop and from the Actions column click the drop-down and select Drop. A cancel order window opens.&lt;/li&gt;
   &lt;li&gt;Click Yes and wait for the cancel order window to close automatically.&lt;/li&gt;
   &lt;li&gt;The learning should no longer appear in your plan.&lt;/li&gt;
@@ -63,13 +63,13 @@ NOTE: Any learning that has been assigned to you, either by a system rule or a m
 ">
   </FAQ>
     <FAQ Question="How can I evaluate the training I have taken?"
-      Answer="Click on the &lt;img src=&quot; https://raw.githubusercontent.com/lpenny22/help/master/resource/images/waffle.png&quot; target=&quot;_blank&quot; title=&quot;THE WAFFLE Image&quot; /&gt; and select the ME tile. My Plan page opens. Click Completed Learning from the left navigation. Next to the course you want to evaluate, there will be Actions. Click to expand and select Evaluate Training.
+      Answer="Click on the &lt;img src=&quot; https://raw.githubusercontent.com/dxcuni/help/itg/resource/images/waffle.png&quot; target=&quot;_blank&quot; title=&quot;THE WAFFLE Image&quot; /&gt; and select the ME tile. My Plan page opens. Click Completed Learning from the left navigation. Next to the course you want to evaluate, there will be Actions. Click to expand and select Evaluate Training.
 ">
   </FAQ>
     <FAQ Question="How do I add a training taken outside of DXC University to my completed learning?"
       Answer="To add any training (course, seminar, webcast, third party certifications, etc.) to your completed learning, which is not listed in DXC University or you took externally, follow these steps:
 &lt;ol&gt;
-  &lt;li&gt;Click on the &lt;img src=&quot; https://raw.githubusercontent.com/lpenny22/help/master/resource/images/waffle.png&quot; target=&quot;_blank&quot; title=&quot;THE WAFFLE Image&quot; /&gt; and select the ME tile. The My Plan page opens&lt;/li&gt;
+  &lt;li&gt;Click on the &lt;img src=&quot; https://raw.githubusercontent.com/dxcuni/help/itg/resource/images/waffle.png&quot; target=&quot;_blank&quot; title=&quot;THE WAFFLE Image&quot; /&gt; and select the ME tile. The My Plan page opens&lt;/li&gt;
   &lt;li&gt;On the My Plan page, click the Actions button and select Add Completed Course&lt;/li&gt;
   &lt;li&gt;In the Add Completed Course window, click the Add New button&lt;/li&gt;
   &lt;li&gt;Enter required information:
@@ -105,7 +105,7 @@ NOTE: Any learning that has been assigned to you, either by a system rule or a m
  &lt;li&gt;Inform your manager to review the entry you have made for the external training and approve it &lt;br /&gt;– Manager will have to login into DXC University, Click on their Message Center envelope, review the entry, and approve it.  &lt;br /&gt;Once it is approved you can refer the following steps to verify the course completion being tracked:
 
         &lt;ol type=&quot;a&quot;&gt;
-	&lt;li&gt;Click on the &lt;img src=&quot; https://raw.githubusercontent.com/lpenny22/help/master/resource/images/waffle.png&quot; target=&quot;_blank&quot; title=&quot;THE WAFFLE Image&quot; /&gt; and select the ME tile. The My Plan page opens&lt;/li&gt;
+	&lt;li&gt;Click on the &lt;img src=&quot; https://raw.githubusercontent.com/dxcuni/help/itg/resource/images/waffle.png&quot; target=&quot;_blank&quot; title=&quot;THE WAFFLE Image&quot; /&gt; and select the ME tile. The My Plan page opens&lt;/li&gt;
 	&lt;li&gt;Click Completed Learning. The course name will be now be added to your Completed Learning with a description &quot;The course has been completed externally&quot;, indicating that it is an ad hoc entry.&lt;/li&gt;
 	&lt;li&gt;You may have to click the Filters button, use the filters available to you, and then click Apply Filters to locate the training.&lt;/li&gt;
         &lt;/ol&gt;

@@ -31,7 +31,7 @@ url('../resource/css/GT-Walsheim-Pro-Regular.svg#svgFontName') format('svg'); /*
     <script>
         //Code Starts
         $(document).ready(function () {
-             var strTable = '<table width="100%" border="1px">'
+             var strTable = '<font face="GT_Walsheim_Pro_Regular"><table width="100%" border="1px">'
             $.ajax({
                 type: "GET",
                 url: "https://raw.githubusercontent.com/dxcuni/help/itg/resource/include/QuestionAnswer.xml",
@@ -46,7 +46,7 @@ url('../resource/css/GT-Walsheim-Pro-Regular.svg#svgFontName') format('svg'); /*
                         $("#" + count + "").hide();
                         count++;
                     });
-                    strTable += '</table>';
+                    strTable += '</font></table>';
                     $('#divFAQ').append(strTable);
                 },
                 error: function () {
@@ -71,7 +71,7 @@ url('../resource/css/GT-Walsheim-Pro-Regular.svg#svgFontName') format('svg'); /*
 -->	
     <script type="text/javascript" src="../resource/js/banner.js"></script>
     <div id="divFAQ" style="padding-top:0px">
-        <p><h2 style="font-family:'GT_Walsheim_Pro_Regular'">Here are some of the most frequently asked<br />questions that employees have about DXC<br />University.1212</h2></p>
+        <p><h2 style="font-family:'GT_Walsheim_Pro_Regular'">Here are some of the most frequently asked<br />questions that employees have about DXC<br />University.3333</h2></p>
     </div>  
     
 <!--Penny DXC Arrow START 2-14-18 Valentine -->

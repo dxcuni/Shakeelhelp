@@ -41,8 +41,8 @@ url('../resource/css/GT-Walsheim-Pro-Regular.svg#svgFontName') format('svg'); /*
                     $(xml).find('FAQ').each(function () {                        
                         var strQuestion = $(this).attr('Question');
                         var strAnswer = $(this).attr('Answer');
-                        strTable += '<tr><td align="justify" style="display: block;"><p style="font-family:'GT_Walsheim_Pro_Regular'"><br /><svg class="nc-icon nc-icon--play nc-icon--left" style="width:50; height:30px;"><use xlink:href="#icon-play" onClick="blabla(' + count + ')"></use></svg>' + strQuestion ;
-                        strTable += '<div id=' + count + ' style="padding-left:20px; padding-right:20px;display:none;">' + strAnswer +  '</p><br /></div></td></tr>';
+                        strTable += '<tr><td align="justify" style="display: block;"><p><span  style="font-family:'GT_Walsheim_Pro_Regular'"><br /><svg class="nc-icon nc-icon--play nc-icon--left" style="width:50; height:30px;"><use xlink:href="#icon-play" onClick="blabla(' + count + ')"></use></svg>' + strQuestion ;
+                        strTable += '<div id=' + count + ' style="padding-left:20px; padding-right:20px;display:none;">' + strAnswer +  '</span></p><br /></div></td></tr>';
                         $("#" + count + "").hide();
                         count++;
                     });
@@ -71,7 +71,7 @@ url('../resource/css/GT-Walsheim-Pro-Regular.svg#svgFontName') format('svg'); /*
 -->	
     <script type="text/javascript" src="../resource/js/banner.js"></script>
     <div id="divFAQ" style="padding-top:0px">
-        <p><h2 style="font-family:'GT_Walsheim_Pro_Regular'">Here are some of the most frequently asked<br />questions that employees have about DXC<br />University.333</h2></p>
+        <p><h2 style="font-family:'GT_Walsheim_Pro_Regular'">Here are some of the most frequently asked<br />questions that employees have about DXC<br />University.444</h2></p>
     </div>  
     
 <!--Penny DXC Arrow START 2-14-18 Valentine -->

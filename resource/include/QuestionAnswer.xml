@@ -34,15 +34,16 @@
 &quot;&gt;&lt;b&gt;Skill Deletion Guide&lt;/b&gt;&lt;/a&gt;">
   </FAQ>
   <FAQ Question="How do I register for a course?"
-       Answer="1.	Click on the waffle and select the ME tile. The My Plan page opens
-2.	On the My Plan page, click the Actions button and select Add Learning
-3.	An Assign Learning window will open. Choose Register and then click Next
-4.	Using the search and filter functionality locate the course you wish to enroll in. If there are more than one class click the Select class link . A list of class IDs will open. For ILT/VILTs you can mouse over a class to see the dates/times of the class. 
-5.	After locating a class in the list click the Action > Arrow  to move the class into your selected learning.
-6.	Click Register
-7.	A registration confirmation window opens indicating that you have been successfully registered for the selected course. Close the window to return to you My Plan page.
-8.	If the course is Web-based, locate the course in your plan and click the Launch button to start the training. 
-">
+       Answer="&lt;ol&gt;
+  &lt;li&gt;Click on the waffle and select the ME tile. The My Plan page opens&lt;/li&gt;
+  &lt;li&gt;On the My Plan page, click the Actions button and select Add Learning&lt;/li&gt;
+  &lt;li&gt;An Assign Learning window will open. Choose Register and then click Next&lt;/li&gt;
+  &lt;li&gt;Using the search and filter functionality locate the course you wish to enroll in. If there are more than one class click the Select class link . A list of class IDs will open. For ILT/VILTs you can mouse over a class to see the dates/times of the class.&lt;/li&gt;
+  &lt;li&gt;After locating a class in the list click the Action > Arrow to move the class into your selected learning.&lt;/li&gt;
+  &lt;li&gt;Click Register&lt;/li&gt;
+  &lt;li&gt;A registration confirmation window opens indicating that you have been successfully registered for the selected course. Close the window to return to you My Plan page.&lt;/li&gt;
+  &lt;li&gt;If the course is Web-based, locate the course in your plan and click the Launch button to start the training.&lt;/li&gt;
+&lt;/ol&gt;">
   </FAQ>
   <FAQ Question="How do I cancel my registration for a course?"
       Answer="If you have enrolled for any learning you either no longer wish to complete (e.g. WBT) or cannot attend (ILT/VILT) the learning still appears on your My Plan page in DXCU.  To unregister/drop learning from your training plan, follow these steps: 

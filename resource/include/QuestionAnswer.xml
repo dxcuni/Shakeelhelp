@@ -12,7 +12,7 @@
   <FAQ Question="What steps do I have to take to update my profile?"
          Answer="&lt;ul&gt;
   &lt;li style=&quot;font-family:'GT_Walsheim_Pro_Regular'&quot;&gt;Confirm if you are in an exempt role by checking the Role Guide. If still unsure, check with your manager &lt;/li&gt;
-  &lt;li style=&quot;font-family:'GT_Walsheim_Pro_Regular'&quot;&gt;Access the training assets on the Skills Management myDXC page:&lt;/li&gt;
+  &lt;li style=&quot;font-family:'GT_Walsheim_Pro_Regular'&quot;&gt;Access the training assets on the Skills Management myDXC page&#58;&lt;/li&gt;
   &lt;li style=&quot;font-family:'GT_Walsheim_Pro_Regular'&quot;&gt;Read the Read Me First document&lt;/li&gt;
   &lt;li style=&quot;font-family:'GT_Walsheim_Pro_Regular'&quot;&gt;Read the Saba Cloud - Compliance Criteria document&lt;/li&gt;
   &lt;li style=&quot;font-family:'GT_Walsheim_Pro_Regular'&quot;&gt;Read the Employee Job Aid and Employee Guide for completing your profile&lt;/li&gt;
@@ -45,7 +45,7 @@
 &lt;/ol&gt;">
   </FAQ>
   <FAQ Question="How do I cancel my registration for a course?"
-      Answer="If you have enrolled for any learning you either no longer wish to complete (e.g. WBT) or cannot attend (ILT/VILT) the learning still appears on your My Plan page in DXCU.  To unregister/drop learning from your training plan, follow these steps: 
+      Answer="If you have enrolled for any learning you either no longer wish to complete (e.g. WBT) or cannot attend (ILT&#47;VILT) the learning still appears on your My Plan page in DXCU.  To unregister&#47;drop learning from your training plan, follow these steps&#58; 
 
 &lt;ol&gt;
   &lt;li style=&quot;font-family:'GT_Walsheim_Pro_Regular'&quot;&gt;Click on the &lt;img src=&quot; https://raw.githubusercontent.com/dxcuni/help/itg/resource/images/waffle.png&quot; target=&quot;_blank&quot; title=&quot;THE WAFFLE Image&quot; /&gt; and select the ME tile. The My Plan page opens with a list of learning you are enrolled in.&lt;/li&gt;
@@ -54,10 +54,10 @@
   &lt;li style=&quot;font-family:'GT_Walsheim_Pro_Regular'&quot;&gt;The learning should no longer appear in your plan.&lt;/li&gt;
 &lt;/ol&gt;
 
-NOTE: Any learning that has been assigned to you, either by a system rule or a manger/person, cannot be removed. You would have to contact the manager/person who assigned it and have them un-assign it.  You may also submit an HRConnect support case for assistance.">
+NOTE&#58; Any learning that has been assigned to you, either by a system rule or a manager&#47;person, cannot be removed. You would have to contact the manager&#47;person who assigned it and have them un&#45;assign it.  You may also submit an HRConnect support case for assistance.">
   </FAQ>
   <FAQ Question="How do I save a copy of my certificate of completion?"
-      Answer="In the Action column click the drop down list next to the completed learning and select Export Certificate. A PDF version of the certificate will be available at the bottom of your screen for you to save, or open/view.
+      Answer="In the Action column click the drop down list next to the completed learning and select Export Certificate. A PDF version of the certificate will be available at the bottom of your screen for you to save, or open&#47;view.
 ">
   </FAQ>
     <FAQ Question="How can I evaluate the training I have taken?"
@@ -100,7 +100,7 @@ NOTE: Any learning that has been assigned to you, either by a system rule or a m
 
  &lt;li style=&quot;font-family:'GT_Walsheim_Pro_Regular'&quot;&gt;Close the message box that opens &quot;The completed course entry is saved successfully.&quot;&lt;/li&gt;
 
- &lt;li style=&quot;font-family:'GT_Walsheim_Pro_Regular'&quot; style=&quot;font-family:'GT_Walsheim_Pro_Regular'&quot; style=&quot;font-family:'GT_Walsheim_Pro_Regular'&quot;&gt;Inform your manager to review the entry you have made for the external training and approve it &lt;br /&gt;– Manager will have to login into DXC University, Click on their Message Center envelope, review the entry, and approve it.  &lt;br /&gt;Once it is approved you can refer the following steps to verify the course completion being tracked&#58;
+ &lt;li style=&quot;font-family:'GT_Walsheim_Pro_Regular'&quot; style=&quot;font-family:'GT_Walsheim_Pro_Regular'&quot; style=&quot;font-family:'GT_Walsheim_Pro_Regular'&quot;&gt;Inform your manager to review the entry you have made for the external training and approve it &lt;br /&gt;&ndash;Manager will have to login into DXC University, Click on their Message Center envelope, review the entry, and approve it.  &lt;br /&gt;Once it is approved you can refer the following steps to verify the course completion being tracked&#58;
 
         &lt;ol type=&quot;a&quot;&gt;
 	&lt;li style=&quot;font-family:'GT_Walsheim_Pro_Regular'&quot; style=&quot;font-family:'GT_Walsheim_Pro_Regular'&quot;&gt;Click on the &lt;img src=&quot; https://raw.githubusercontent.com/dxcuni/help/itg/resource/images/waffle.png&quot; target=&quot;_blank&quot; title=&quot;THE WAFFLE Image&quot; /&gt; and select the ME tile. The My Plan page opens&lt;/li&gt;

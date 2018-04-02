@@ -50,9 +50,6 @@ p.a {
                     });
                     strTable += '</table>';
                     $('#divFAQ').append(strTable);
-                },
-                error: function () {
-                    //alert("An error occurred while processing XML file." + Response);
                 }
 
             });

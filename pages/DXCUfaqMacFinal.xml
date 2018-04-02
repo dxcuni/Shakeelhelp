@@ -52,7 +52,7 @@ p.a {
                     $('#divFAQ').append(strTable);
                 },
                 error: function () {
-                    alert("An error occurred while processing XML file." + Response);
+                    //alert("An error occurred while processing XML file." + Response);
                 }
 
             });

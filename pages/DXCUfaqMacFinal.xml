@@ -33,14 +33,14 @@ p.a {
     <script>
         //Code Starts
         $(document).ready(function () {
-alert("H1")
+
              var strTable = '<table width="100%" border="1px">'
             $.ajax({
                 type: "GET",
                 url: "https://raw.githubusercontent.com/dxcuni/help/master/resource/include/QuestionAnswer.xml",
                 dataType: "xml",
                 success: function (xml) {
-alert("H1 123")
+
                     var count = 1;
                     $(xml).find('FAQ').each(function () {                        
                         var strQuestion = $(this).attr('Question');

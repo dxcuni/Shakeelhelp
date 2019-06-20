@@ -9,28 +9,21 @@
   &lt;li style=&quot;font-family:'GT_Walsheim_Pro_Regular'&quot;&gt;Be sure to follow the compliance rules to complete this activity&lt;/li&gt;
 &lt;/ul&gt;">
   </FAQ>
-  <FAQ Question="What steps do I have to take to update my profile?"
+  <FAQ Question="What steps do I have to take to update my skill plan?"
          Answer="&lt;ul&gt;
-  &lt;li style=&quot;font-family:'GT_Walsheim_Pro_Regular'&quot;&gt;Confirm if you are in an exempt role by checking the Role Guide. If still unsure, check with your manager &lt;/li&gt;
-  &lt;li style=&quot;font-family:'GT_Walsheim_Pro_Regular'&quot;&gt;Access the training assets on the Skills Management myDXC page:&lt;/li&gt;
-  &lt;li style=&quot;font-family:'GT_Walsheim_Pro_Regular'&quot;&gt;Read the Read Me First document&lt;/li&gt;
+  &lt;li style=&quot;font-family:'GT_Walsheim_Pro_Regular'&quot;&gt;Access the training assets on the &lt;a href=&quot;https://my.dxc.com/our-company/global-functions/integrated-workforce-management/analytics-and-intelligence/dxc-skills-management.html&quot; target=&quot;_blank&quot; title=&quot;myDXC Skills Management&quot;&gt;&lt;b&gt;myDXC Skills Management&lt;/b&gt;&lt;/a&gt; Page. &lt;/li&gt;
   &lt;li style=&quot;font-family:'GT_Walsheim_Pro_Regular'&quot;&gt;Read the Saba Cloud - Compliance Criteria document&lt;/li&gt;
-  &lt;li style=&quot;font-family:'GT_Walsheim_Pro_Regular'&quot;&gt;Read the Employee Job Aid and Employee Guide for completing your profile&lt;/li&gt;
-  &lt;li style=&quot;font-family:'GT_Walsheim_Pro_Regular'&quot;&gt;Confirm with your manager is there are Business specific guidelines for your organization to follow&lt;/li&gt;
-  &lt;li style=&quot;font-family:'GT_Walsheim_Pro_Regular'&quot;&gt;Only enter skills you that you are currently using and skills that you are proficient in and can perform now. They should not enter any historical skills that they no longer use or use or are no longer proficient in or active in the market place&lt;/li&gt;
+  &lt;li style=&quot;font-family:'GT_Walsheim_Pro_Regular'&quot;&gt;Read the Employee Quick Start Guide for completing your skill plan&lt;/li&gt;
+  &lt;li style=&quot;font-family:'GT_Walsheim_Pro_Regular'&quot;&gt;Confirm with your manager if there are Business specific guidelines for your organization to follow&lt;/li&gt;
+  &lt;li style=&quot;font-family:'GT_Walsheim_Pro_Regular'&quot;&gt;Only enter skills that you are currently using and skills that you are proficient in and can perform now. You should not enter any historical skills that no longer in use or are no longer proficient in or active in the marketplace&lt;/li&gt;
   &lt;li style=&quot;font-family:'GT_Walsheim_Pro_Regular'&quot;&gt;Ensure your entries are compliant&lt;/li&gt;
-  &lt;li style=&quot;font-family:'GT_Walsheim_Pro_Regular'&quot;&gt;Follow the How to add a Resume document - Instructions to enter your resume&lt;/li&gt;
+  &lt;li style=&quot;font-family:'GT_Walsheim_Pro_Regular'&quot;&gt;Follow the How to add a Resume document to add your resume&lt;/li&gt;
   &lt;li style=&quot;font-family:'GT_Walsheim_Pro_Regular'&quot;&gt;Notify your manager when your entries are complete so they can begin their review&lt;/li&gt;
-&lt;/ul&gt;">
+  &lt;/ul&gt;">
   </FAQ>
   <FAQ Question="Where do I find all the training assets for the Skill Profile updating?"
-       Answer="&lt;ul&gt;
-  &lt;li style=&quot;font-family:'GT_Walsheim_Pro_Regular'&quot;&gt;All training assets are located on the &lt;a href=&quot;https://my.dxc.com/our-company/global-functions/integrated-workforce-management/analytics-and-intelligence/dxc-skills-management.html&quot; target=&quot;_blank&quot; title=&quot;myDXC Skills Management&quot;&gt;&lt;b&gt;myDXC Skills Management&lt;/b&gt;&lt;/a&gt;.&lt;/li&gt;
-  &lt;li style=&quot;font-family:'GT_Walsheim_Pro_Regular'&quot;&gt;Be sure to read the ReadMe First document for descriptions of each asset.&lt;/li&gt;
-&lt;/ul&gt;">
-  </FAQ>
-  <FAQ Question="I need to delete some skills; how do I do that?"
-       Answer="Please refer to the &lt;a href=&quot;https://my.dxc.com/content/dam/private/our_company/global_functions/integrated_workforce_management/skillsmanagement/SkillDeletionGuide.pdf&quot; target=&quot;_blank&quot; title=&quot;Skills Deletion Guide&quot;&gt;&lt;b&gt;Skill Deletion Guide&lt;/b&gt;&lt;/a&gt;">
+       Answer="All training assets are located on the &lt;a href=&quot;https://my.dxc.com/our-company/global-functions/integrated-workforce-management/analytics-and-intelligence/dxc-skills-management.html&quot; target=&quot;_blank&quot; title=&quot;myDXC Skills Management&quot;&gt;&lt;b&gt;myDXC Skills Management&lt;/b&gt;&lt;/a&gt; Page.
+	   ">
   </FAQ>
   <FAQ Question="How do I register for a course?"
        Answer="&lt;ol&gt;
@@ -113,7 +106,9 @@ NOTE: Any learning that has been assigned to you, either by a system rule or a m
 ">
   </FAQ>
   <FAQ Question="Where can I get further help?"       
-      Answer="Visit HRConnect and submit your DXC University Skills Management or Training related questions at&#58; &lt;a href=&quot;https://dxchr.service&#45;now.com/hrportal&#63;id&#61;hrj&#95;sc&#95;cat&#95;item&amp;sys&#95;id&#61;139945f83766c300a811772a53990eba&quot; target=&quot;_blank&quot; title=&quot;DXC University Questions &#47; Support&quot;&gt;&lt;b&gt;DXC University Questions &#47; Support&lt;/b&gt;&lt;/a&gt;.
-">
-  </FAQ>
+      Answer="&lt;ul&gt;
+  &lt;li style=&quot;font-family:'GT_Walsheim_Pro_Regular'&quot;&gt;Visit HRConnect and submit your DXC University Skills Management or Training related questions at&#58; &lt;a href=&quot;https://dxchr.service&#45;now.com/hrportal&#63;id&#61;hrj&#95;sc&#95;cat&#95;item&amp;sys&#95;id&#61;139945f83766c300a811772a53990eba&quot; target=&quot;_blank&quot; title=&quot;DXC University Questions &#47; Support&quot;&gt;&lt;b&gt;DXC University Questions &#47; Support&lt;/b&gt;&lt;/a&gt;.&lt;/li&gt;
+  &lt;li style=&quot;font-family:'GT_Walsheim_Pro_Regular'&quot;&gt;For Skills Management, please initiate a &lt;a href=&quot;https://dxchr.service-now.com/hrportal?id=live_chat&quot; target=&quot;_blank&quot; title=&quot;Live Chat&quot;&gt;&lt;b&gt;Live Chat&lt;/b&gt;&lt;/a&gt; &quot;Human Resource&quot; for help.&lt;/li&gt;
+  &lt;/ul&gt;">  
+	  </FAQ>
 </FAQList>
